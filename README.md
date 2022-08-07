@@ -5,22 +5,21 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 - 💬 I love creating tons of non-user accounts!
 
 # My skills! 🧙‍
--🌐 Web Scraping
--🌐 Game Development
--🌐 Discord API
--🌐 Telegram API
--🌐 Instagram API
--🌐 Whatsapp API
--🌐 Binance API
--🌐 Twitter API
--🌐 Steam API
--🌐 Spotify API
--🌐 Wordpress API
--🌐 Google API
--🌐 Youtube Data API
--🌐 Not open source APIs
--🌐 more...
-
+- 🌐 Web Scraping
+- 🌐 Game Development
+- 🌐 Discord API
+- 🌐 Telegram API
+- 🌐 Instagram API
+- 🌐 Whatsapp API
+- 🌐 Binance API
+- 🌐 Twitter API
+- 🌐 Steam API
+- 🌐 Spotify API
+- 🌐 Wordpress API
+- 🌐 Google API
+- 🌐 Youtube Data API
+- 🌐 Not open source APIs
+- 🌐 more...
 # Hello, It's me MARIOOO! Nah, I'm just kidding... 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LindaMosep&show_icons=true&theme=radical)
 
