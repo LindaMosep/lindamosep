@@ -22,6 +22,7 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 - 🌐 Spotify API
 - 🌐 Wordpress API
 - 🌐 Google API
+- 🌐 OpenSea API
 - 🌐 Youtube Data API
 - 🌐 Not open source APIs
 - 🌐 more...
