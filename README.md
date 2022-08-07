@@ -7,6 +7,10 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 # My skills! 🧙‍
 - 🌐 Web Scraping
 - 🌐 Game Development
+- 🌐 Game Modding
+- 🌐 Automation 
+- 🌐 Captcha AI's (image and text based)
+- 🌐 Non-user accounts
 - 🌐 Discord API
 - 🌐 Telegram API
 - 🌐 Instagram API
@@ -20,6 +24,7 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 - 🌐 Youtube Data API
 - 🌐 Not open source APIs
 - 🌐 more...
+
 # Hello, It's me MARIOOO! Nah, I'm just kidding... 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LindaMosep&show_icons=true&theme=radical)
 
