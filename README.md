@@ -32,7 +32,7 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="https://github.com/LindaMosep/lindamosep/blob/4a77f1e985c8b9d7e13a1c2070125f294c6ba83e/blabla.svg" width="400" height="400" alt="css-in-readme">
 </div>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣧⠞⢻⡅⠀⠀⢀⣷⡆⠈⡙⢶⡄⠐⠂⠀⠒⠂⠀⠈⠉⠉⠉⡍⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢫⡞⠁⣰⣿⣿⣄⣼⣿⡛⣷⠀⠈⠈⣷⡄⢀⣩⡐⠶⣄⡀⠂⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
