@@ -6,6 +6,7 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 
 # My skills! 🧙‍
 - 🌐 Web Scraping
+- 🌐 Selenium :()
 - 🌐 Game Development
 - 🌐 Game Modding
 - 🌐 Automation 
