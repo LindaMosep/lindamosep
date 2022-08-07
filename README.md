@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/LindaMosep/lindamosep/blob/4a77f1e985c8b9d7e13a1c2070125f294c6ba83e/blabla.svg" width="400" height="400" alt="css-in-readme">
+</div>
 # Who am I? 👨‍💻
 I'm a 18 yo Bot and frontend API developer. I started coding when I was just a high school kiddo as a game developer. I started learning Unity C# and game development. After 6 month, I stopped developing games and just focused onto C#. Somehow some of my developer friends told me, "You can create Discord Bot for fun!" and I started learning Rest API systems. And now I'm full time frontend API developer as a freelancer!
 
@@ -30,10 +33,6 @@ I'm a 18 yo Bot and frontend API developer. I started coding when I was just a h
 # Hello, It's me MARIOOO! Nah, I'm just kidding... 👋
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LindaMosep&show_icons=true&theme=radical)
 
-
-<div align="center">
-    <img src="https://github.com/LindaMosep/lindamosep/blob/4a77f1e985c8b9d7e13a1c2070125f294c6ba83e/blabla.svg" width="400" height="400" alt="css-in-readme">
-</div>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣧⠞⢻⡅⠀⠀⢀⣷⡆⠈⡙⢶⡄⠐⠂⠀⠒⠂⠀⠈⠉⠉⠉⡍⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢫⡞⠁⣰⣿⣿⣄⣼⣿⡛⣷⠀⠈⠈⣷⡄⢀⣩⡐⠶⣄⡀⠂⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡟⠀⣸⣿⠛⣿⣿⡿⠛⡇⢸⣆⠀⠀⢸⣿⠰⠤⠜⠳⠁⢶⡄⠂⠀⠆⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
