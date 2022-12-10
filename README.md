@@ -17,6 +17,9 @@ I'm just a Bot and backend API developer. I started coding when I was just a hig
 - 🌐 Instagram API
 - 🌐 Whatsapp API
 - 🌐 Binance API
+- 🌐 Uniswap API
+- 🌐 Dex.guru API
+- 🌐 Guilded API
 - 🌐 Twitter API
 - 🌐 Steam API
 - 🌐 Spotify API
@@ -24,6 +27,7 @@ I'm just a Bot and backend API developer. I started coding when I was just a hig
 - 🌐 Google API
 - 🌐 OpenSea API
 - 🌐 Youtube Data API
+- 🌐 Uber API
 - 🌐 Not open source APIs
 - 🌐 more...
 
